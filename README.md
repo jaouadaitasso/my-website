@@ -7,3 +7,6 @@ I fixed the problem
 seconde line in update-branch
 
 # new line readme for tags => master
+
+# new line 
+comparison between to commits 
