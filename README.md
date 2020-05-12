@@ -10,3 +10,6 @@ seconde line in update-branch
 
 # new line 
 comparison between to commits 
+
+# new line
+new other line contributor
